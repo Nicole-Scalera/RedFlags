@@ -99,3 +99,6 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 Jack's Fork/gamejam-spring2024/
+
+# Ignore Shaderlab files
+*.shader
